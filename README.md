@@ -1,4 +1,4 @@
-# idea-book
+# Idea Book
 
 The idea of this idea book comes [from Zach](https://github.com/zachleat/idea-book), thanks for the inspiration!
 
